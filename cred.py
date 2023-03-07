@@ -1,0 +1,5 @@
+sender__email = "piyushgdm@gmail.com"
+receiver__email = "jerkycloud@gmail.com"
+passwordd = "Diamonds@29"
+subjectt = "Test Email"
+messagee = "Hello, this is a test email sent using Python!"
